@@ -46,6 +46,7 @@ function showText() {
             }
         }
 
+
         setTimeout(showText, 400 + Math.floor(Math.random() * 400));
     }
 
