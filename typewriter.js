@@ -45,7 +45,7 @@ function showText() {
 
             }
         }
-
+        //fuck
 
         setTimeout(showText, 400 + Math.floor(Math.random() * 400));
     }
